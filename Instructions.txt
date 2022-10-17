@@ -1,0 +1,44 @@
+# Best-Modular-3D-Printer-Case
+The Best Design of the Modular Case For a 3D Printer
+
+Things Needed
+    
+    -M2- Nuts/Bults/washers
+    -M3- Nuts/Bults/washers
+    T-slot Thingivers
+    Glue
+    Stuff to Label wires Tape/Pin/ext
+    Tools/ext
+    Tools to Heat press Nuts
+    Clean up Tools
+
+
+
+1. Disassemble Printer
+
+    Take Note to how your printer comes apart, label, & pictures as needed.
+
+    Now is the time to do upgrades
+    Pre print Need Boxes
+
+2. Install
+    
+    Installing PSU Box Next To Main Box, will Reduce wires to control board. These can now be shortend.
+    Adding a extra box at the back of PSU will give extra space for Buck Controllers and USB, Hubs, LED, ext.
+
+    1. Print Out Power Box A & B
+        Power Box A & B Will fit any 12v/24v Power supply that comes with 3d printers
+        Heat set M2 Nuts for lid
+        Secure with M2 Bolt/Nuts
+    2. Main Box
+        The Main Box can be used for moduler parts
+        Heat set M2 Nuts for lid
+        The Main Box Fits All Main Control Boards of 3d printers
+        The Main Box Also Fits All Raspberry Pi' Series
+    3. Box Insert
+        Pick the Insert that matches your Needs
+        Glue Insert in place after Printing Faceplate
+        Heat set M2 Nuts
+        Glue Insert in place after Printing Faceplate
+    4. Print Faceplates as Needed/Wanted
+    5. Print Lids as needed(Work in Progress)
