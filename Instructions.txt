@@ -16,29 +16,68 @@ Things Needed
 
 1. Disassemble Printer
 
-    Take Note to how your printer comes apart, label, & pictures as needed.
+    1. Pre print Needed Components.
 
-    Now is the time to do upgrades
-    Pre print Need Boxes
+    2. Take Note to how your printer comes apart, label, & pictures as needed.
 
-2. Install
+    3. Now is time to upgrade Other Components while you have the 3d printer apart.
+        This Guide dose not cover those upgrades put supports them.
+
+        Control Board upgrade
+        BlTouch / Equivalent
+        Hotend upgrade
+        Stepper Motors upgrade
+        Buck connecters
+        20 Teeth pulley bore
+        Filament Break Sensor
+        Magnetic/Glass Build surface
+        Heated Bed
+        Cable Chains
+        Extension Cable Kits for Creality
+        Fan Upgrades 80mm & 40mm
+
+    4. Move/Raise the Gantry to X Max & Z Max
+    5. Adjust wires to reach Control board location
+            (Cable chains work Best try my Mine)
+        https://cults3d.com/en/3d-model/tool/cable-chain-anycubic-mega-zero-2-0
+
+    6. Remove power supply, Cover & 80mm Fan 
+    7. Remove Main Board, 40mm Fan
+    8. Remove Raspberry Pi (If installed already)
+    9. Remove anything that may block or prevent install
+
+
+    
+
+2. ReInstall Power-Supply/Main-Board/Raspberry-Pi
     
     Installing PSU Box Next To Main Box, will Reduce wires to control board. These can now be shortend.
     Adding a extra box at the back of PSU will give extra space for Buck Controllers and USB, Hubs, LED, ext.
 
     1. Print Out Power Box A & B
-        Power Box A & B Will fit any 12v/24v Power supply that comes with 3d printers
-        Heat set M2 Nuts for lid
-        Secure with M2 Bolt/Nuts
+
+        Power Box (A & B) Will fit ANY 12v/24v Power supply that comes with 3d printers.
+        Heat set M2 Nuts for lid.
+        Secure Box (A & B) with M2 Bolt/Nuts 1,2.
+        Place Power supply in Box (A & B) and secure 3,4,5 with M2 Bolt/Nut.
+        Install Fan into (Power Supply Bracket).
+        Install Fan Brakecket to hole 6.
+        Line up fan cut out with lid.
+        Set Fan so Hot air is Being Pulling away from Board.
+
+        
     2. Main Box
-        The Main Box can be used for moduler parts
-        Heat set M2 Nuts for lid
-        The Main Box Fits All Main Control Boards of 3d printers
-        The Main Box Also Fits All Raspberry Pi' Series
-    3. Box Insert
-        Pick the Insert that matches your Needs
-        Glue Insert in place after Printing Faceplate
-        Heat set M2 Nuts
-        Glue Insert in place after Printing Faceplate
-    4. Print Faceplates as Needed/Wanted
-    5. Print Lids as needed(Work in Progress)
+            The Main Box can be used for moduler parts.
+            Heat set M2 Nuts for lid.
+            The Main Box Fits All Main Control Boards of 3d printers.
+            The Main Box Also Fits All Raspberry Pi' Series.
+
+        Box Inserts
+            Pick the Insert that matches your Needs.
+            Print Faceplates that are needed.
+            Heat set M2 Nuts.
+            Install Faceplates.
+            Glue Insert in place after Matching to faceplate.
+
+    
+3. Print Lids as needed(Work in Progress)
