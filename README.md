@@ -13,7 +13,8 @@ I thought Good and hard about what i want and made a check list on what I want a
 0. Fit any Printer!
 1. Modular in design!
 2. Fully 3d Printable!
-3.Fast! No Supports!
+3. Fast! No Supports!
+4. Easy Upgrade
 
 Now with these 3 in Mind i'm thank about any Gantry 3d Printer like Crealty Ender Series, or the AnyCubic Series. I will have Frame Specs posted in Photos and (Here)
 

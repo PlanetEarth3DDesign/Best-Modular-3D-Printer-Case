@@ -45,32 +45,49 @@ Things Needed
     7. Remove Main Board, 40mm Fan
     8. Remove Raspberry Pi (If installed already)
     9. Remove anything that may block or prevent install
-
-
     
+    see Photos
 
-2. ReInstall Power-Supply/Main-Board/Raspberry-Pi
+
+2. Install Feet
+
+    The Feet Are a Must put it raises the printer up but will all be used to get the space we want & also get the look of sleake, flush and seamless look
+
+          Use M3 Bolts/T-Nuts/washers to Mount(see photos)
+
+3. ReInstall Power-Supply/Main-Board/Raspberry-Pi
     
-    Installing PSU Box Next To Main Box, will Reduce wires to control board. These can now be shortend.
+    Installing PSU Box Next To Main Box, will Reduce wires to control board. Shorten/Lengthen Cords as needed.
     Adding a extra box at the back of PSU will give extra space for Buck Controllers and USB, Hubs, LED, ext.
 
     1. Print Out Power Box A & B
 
         Power Box (A & B) Will fit ANY 12v/24v Power supply that comes with 3d printers.
-        Heat set M2 Nuts for lid.
+        Heat set M2 Nuts for lid & PSU montings (see photos)
         Secure Box (A & B) with M2 Bolt/Nuts 1,2.
-        Place Power supply in Box (A & B) and secure 3,4,5 with M2 Bolt/Nut.
-        Install Fan into (Power Supply Bracket).
-        Install Fan Brakecket to hole 6.
-        Line up fan cut out with lid.
+        Place Power supply in Box (A & B) and secure 3,4,5 with M2 Bolt/Nut/washers.
+
+   2.  Install Fan into (Power Supply Bracket).
+       
+        The Fan bracket is made to ajust to the defront series PSU component location that may prevent you from mounting
+        Line up fan mount to line up with lid. (If yours dose not line up!)
+            (Use the closest hole and msg me for a free update)
         Set Fan so Hot air is Being Pulling away from Board.
+        Reuse old hardware
+
+    3.Install Fan Brakecket to hole 6. (see photo)
+        
+    4. install Main Power I/O switch in proper location
+
+        Use M3 Bolts/T-Nuts/washers to Mount(see photos)
 
         
-    2. Main Box
+4. Main Box
             The Main Box can be used for moduler parts.
             Heat set M2 Nuts for lid.
             The Main Box Fits All Main Control Boards of 3d printers.
             The Main Box Also Fits All Raspberry Pi' Series.
+            Use M3 Bolts/T-Nuts/washers to Mount (see photos)
 
         Box Inserts
             Pick the Insert that matches your Needs.
@@ -79,5 +96,15 @@ Things Needed
             Install Faceplates.
             Glue Insert in place after Matching to faceplate.
 
-    
-3. Print Lids as needed(Work in Progress)
+
+5. Rewire
+        Hook everything back up how it was or if you add extinders or redused wire good luck
+
+
+4. Print Lids as needed(Work in Progress)
+    Screw down with m2 Washers/Nuts
+    Hook up cable chains
+
+Flush mount main board system is now complete.
+
+Time to start on the 3D printer Cover
