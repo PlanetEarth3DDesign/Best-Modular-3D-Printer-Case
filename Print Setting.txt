@@ -1,0 +1,9 @@
+     To be fully 3d printable means that all the hardware can be printed off and included in .stl, (plastic hardware works.. But Please use metal hardware)
+
+     I will add supports where needed no need to add support settings in slicer, i will include None support files if you want to use support.
+
+     With Speed in Mind, i designed to print with a Nozzle (Tip of 1.0) ( Height 0.5) This makes print Time 2H for largest pieces.
+     Adjust 
+     For Smaller pieces use a Nozzle (Tip 0.5) (Height 0.2)
+
+     Speed is What you can Do

@@ -3,9 +3,9 @@ The Best Design of the Modular Case For a 3D Printer
 
 Things Needed
     
-    -M2- Nuts/Bults/washers
-    -M3- Nuts/Bults/washers
-    T-slot Thingivers
+    -M2- Nuts/Bults/washers (Large Set)
+    -M3- Nuts/Bults/washers (Large Set)
+    T-slot Thingivers or (Large set)
     Glue
     Stuff to Label wires Tape/Pin/ext
     Tools/ext
@@ -87,24 +87,80 @@ Things Needed
             Heat set M2 Nuts for lid.
             The Main Box Fits All Main Control Boards of 3d printers.
             The Main Box Also Fits All Raspberry Pi' Series.
-            Use M3 Bolts/T-Nuts/washers to Mount (see photos)
+            Use M3 Bolts/T-Nuts/washers to Mount Box to frame where needed (see photos)
 
         Box Inserts
             Pick the Insert that matches your Needs.
-            Print Faceplates that are needed.
-            Heat set M2 Nuts.
-            Install Faceplates.
-            Glue Insert in place after Matching to faceplate.
+			Main Board
+			Pi
+			Buck Connector
+			LED/RGB
+			Fans
+			(On request)
+		Heat set M2 Nuts into needed insert.
+		Glue Insert in place after Matching to faceplate. -Recomended do this last- (You mite want to move stuff around and choose another layout)
 
+      Print Faceplates that are needed.
+	I have included Faceplates for alot of extras
+		Fans
+		usb's
+		HDMI
+		ethernet port
+		main board
+		pi's
+		Air Holes
+		Solid
+		(On request)
+      Install Faceplates.
+	Use M2 Bolts/washers/nuts to Mount(see photos)
 
-5. Rewire
-        Hook everything back up how it was or if you add extinders or redused wire good luck
+5. Secure all boxes and faceplates together with M2 Boltt/washers/nuts
 
+6. Rewire
+        Hook everything back up how it was or if you add extinders or redused wire good luck thats up to you
 
-4. Print Lids as needed(Work in Progress)
+7. Print Lids as needed
+	Choose the lid that fits your needs, cable chain, blank, Air Holes, Fan
     Screw down with m2 Washers/Nuts
     Hook up cable chains
 
-Flush mount main board system is now complete.
+8. Use the Spacer Box to Match you printer size if needed
 
-Time to start on the 3D printer Cover
+The Flush Mount 3D Printable Case is now complete.
+
+
+Time to start on the (Flush Mount platform) System
+	The (Flush Mount Platforms) let you add a Flush Mount Platform all the way around a v-channel printer
+	This is used to create the Complete 3D printable case
+
+	The Main Platform Sould Be Reused to Go All The Wa Around 
+	&
+	A Spacer Platform Should Be Used To Fill/make up defronts batween printers
+	
+	Center Gantry Platforms are need to enclose build valume or for a flush look
+	
+	If spacer Dose Not Match printer Make a request
+
+Time to start on the 3D printable Cover
+	The Main Structure is V-slots that can be printed at 200mm High (recamend printing them off 1 at a time)
+
+	-Work in Progress-
+		Light waight V-slot option Print on side for faster and less plastic
+	
+	Secure base Munting Bracets to (Flush Mount Platform's / Flush Mount Boxes (see Photos)
+	Add V-slots where needed (At Corners, The Door V-slots and the Back Wall)
+	Add Middle Brackets & secure with M3 Hardware.
+	Add 2nd Layer of V-slots
+
+Mount top brackets
+	Use V-slots to connect corner to corner.
+	Mount The Center-Top Bracket's
+	use V-slots to connect
+
+	Check strctual integrity
+
+	Walls/Panels
+		Walls/panels will be secured with M3 hardware with T-Nuts (Working on possible printable alt.)
+		
+		
+	This will prevent dust and keep your build valume stable
